@@ -1,0 +1,60 @@
+body {
+      margin: 0;
+      min-height: 180px;
+      padding: 0;
+      width: 384px;
+    }
+
+    h1 {
+      font-size: 22px;
+      font-weight: 400;
+      margin: 0;
+      color: #9e2cb2;
+    }
+
+    img {
+      width: 30px;
+    }
+
+    .header {
+      align-items: center;
+      border-bottom: 0.5px solid #dadada;
+    }
+
+   
+
+    .icons {
+      border-top: 0.5px solid #dadada;
+      height: 50px;
+      width: 100%;
+    }
+
+
+    .logo {
+      padding: 16px;
+    }
+
+    .logo-icon {
+      vertical-align: text-bottom;
+      margin-right: 12px;
+    }
+
+    
+
+    .social_medias {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 22px;
+    }
+
+    .s {
+      opacity: 1;
+      transition: opacity 0.2s ease-in-out;
+      width: 120px;
+    }
+
+    .s:hover {
+      opacity: 0.5;
+    }
+
+  
